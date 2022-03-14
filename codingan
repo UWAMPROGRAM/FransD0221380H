@@ -1,0 +1,6 @@
+#percabangan _if _else
+nilai = int(input("Masukan Nilai :"))
+if nilai >= 75 :
+	print ("LULUS")
+else :
+		print("TIDAK LULUS")
